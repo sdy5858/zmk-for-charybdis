@@ -29,10 +29,10 @@
 
         layer_1 {
             bindings = <
-&kp F1          &kp F2  &kp F3  &kp F4    &kp F5     &kp F6        &kp F7      &kp F8          &kp F9     &kp F10  &kp F11           &kp F12
-&kp CAPS        &none   &none   &none     &none      &bt BT_NXT    &none       &none           &none      &none    &kp SLASH         &kp BACKSLASH
-&kp LEFT_SHIFT  &none   &none   &none     &none      &bt BT_CLR    &none       &none           &none      &none    &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&kp LCTRL       &none   &none   &none     &none      &none         &none       &kp APOSTROPHE  &kp COMMA  &kp DOT  &kp MINUS         &kp EQUAL
+&kp F1          &kp F2  &kp F3  &kp F4    &kp F5     &kp F6        &kp F7      &kp F8          &kp F9     &kp F10       &kp F11           &kp F12
+&kp CAPS        &none   &none   &none     &none      &bt BT_NXT    &none       &none           &none      &none         &kp SLASH         &kp BACKSLASH
+&kp LEFT_SHIFT  &none   &none   &none     &none      &bt BT_CLR    &none       &none           &none      &kp QUESTION  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+&kp LCTRL       &none   &none   &none     &none      &none         &none       &kp APOSTROPHE  &kp COMMA  &kp DOT       &kp MINUS         &kp EQUAL
                                 &kp LALT  &kp SPACE  &to 0         &kp DELETE  &kp GRAVE
                                           &mkp MB1   &mkp MB2      &kp ENTER
             >;
